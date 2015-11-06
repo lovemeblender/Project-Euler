@@ -11,10 +11,4 @@ public class Problem1 {
         }
         return sum;
     }
-
-    public static void main(String[] args) {
-        Problem1 p = new Problem1();
-        System.out.println(p.sum());
-        
-    }
 }
