@@ -11,9 +11,4 @@ public class Problem5 {
             if(found) return i;
         }
     }
-
-    public static void main(String[] args) {
-        Problem5 p = new Problem5();
-        System.out.println(p.smallestMultiple());
-    }
 }
